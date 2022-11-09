@@ -1,2 +1,2 @@
 -Se ha realizado la rama funcionalidad_1_SGR por SGR_componente
-
+-Se ha realizado la rama funcionalidad_2_FJBB por FJBB_componete y la rama funcionalidad_3_LCV por LCV_componente
