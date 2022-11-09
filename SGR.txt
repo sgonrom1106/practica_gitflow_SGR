@@ -1,0 +1,3 @@
+- 18:00 09/11/2022
+- Sergio González Romero
+- Trabajo de la rama "funcionalidad_1_SGR"
