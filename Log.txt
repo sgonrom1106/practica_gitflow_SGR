@@ -1,0 +1,18 @@
+- En el inicio de la práctica, he creado mi repositorio en GitHub y he asignado como colaboradores a mis componentes de equipo para que más tarde puedan entrar y meter sus respectivas ramas
+- En el terminal, he usado git clone con el link SSH  para pasar mi repositorio en mi nube a la terminal
+- Luego, he creado el fichero progreso.txt para más tarde escribir en él
+- Como nos encontramos inicialmente en la rama main, he creado la rama funcionalidad_1_SGR con git branch y nos hemos movido a ésta nueva con git checkout
+- En la rama actual, creo mi fichero SGR.txt y lo he editado  escribiendo lo que me piden en la práctica
+- Una vez acabado, he utilizado git add para actualizarlo y luego le he hecho git commit para guardarlo
+- Cuando se guarda, nos iremos de vuelta a nuestra rama usando de nuevo git checkout y más tarde usaré git merge para fusionar la rama creada con la main, para luego hacerle un git push y mandarlo al repositorio de GitHub
+- De nuevo, crearé una rama llamada control_procesos_1, donde se irá apuntando cuando se realice cada rama
+- Una vez acabado, le haré git commit, luego git merge en la rama main y para acabar git push para subirlo de nuevo
+- Cuando acabe de terminar lo que tenía que hacer en mi repositorio, mis colaboradores entrarán en mi repositorio con git clone para crear sus respectvas ramas y añadiendo sus ficheros con sus números e iniciales
+- Cada vez que acabe un compañero en mi repositorio, editaré progreso.txt escribiendo que ya se ha realizado su trabajo
+- Una vez terminado todo, crearé un fichero Log.txt donde iré apuntando todo el proceso que se haya realizado en mi repositorio, apuntando además problemas y errores que han habido surgiendo en la realización
+
+Durante la práctica, no ha habido problemas con la realización de la práctica, expecto que un compañero había creado en mi repositorio de github un fichero, estando yo trabajando con la rama control_procesos en la terminal, y a la hora de hacer git push no podía subirlo debido a que se habia modificado, por lo que en al terminar ese compañero, el siguiente hizo la tarea que tenía que hacer y registré en progreso.txt a ambos a la vez 
+
+Y hasta aquí la práctica de Git.
+
+Nota: esta es la segunda vez que realizo la práctica, más que nada para practicar el uso de las ramas
